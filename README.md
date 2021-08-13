@@ -1,6 +1,8 @@
 ##
  <div>
- ola
+  Analista de Sistemas e Desenvolvedor de Software no LNCC (Laboratório Nacional de Computação Científica). Mestre em Modelagem Computacional pelo LNCC, Graduado em Tecnologia da Informação e Comunicação pela FAETERJ (Faculdade de Educação Tecnológica do Estado do Rio de Janeiro / Petrópolis). Técnico em Telecomunicações pelo CEFET (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca / Petrópolis). Possui experiência em Computação de Alto Desempenho (HPC) e Inteligência Artificial, gerenciamento de Redes de Computadores e desenvolvimento fullstack. 
+ </div>
+ <div>
   <a href="https://github.com/ViniciusPrataKloh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPrataKloh&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPrataKloh&layout=compact&langs_count=16"/>
