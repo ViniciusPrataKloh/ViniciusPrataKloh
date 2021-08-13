@@ -1,14 +1,3 @@
-##
- <div>
-  
- </div>
- 
- <div id="box_geral">
-<div class="box">
-<h2>Quem sou</h2>
-<p>Analista de Sistemas e Desenvolvedor de Software no LNCC (Laboratório Nacional de Computação Científica). Mestre em Modelagem Computacional pelo LNCC, Graduado em Tecnologia da Informação e Comunicação pela FAETERJ (Faculdade de Educação Tecnológica do Estado do Rio de Janeiro / Petrópolis). Técnico em Telecomunicações pelo CEFET (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca / Petrópolis). Possui experiência em Computação de Alto Desempenho (HPC) e Inteligência Artificial, gerenciamento de Redes de Computadores e desenvolvimento fullstack. </p>
-</div>
- 
  ##
  
  <div>
