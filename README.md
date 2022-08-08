@@ -32,10 +32,11 @@
  
 </div>
 
+ <div> 
 Áreas: Desenvolvimento full-stack, Computação de Alto Desempenho (HPC), Inteligência Artificial (Machine-Deep Learning) e Redes de Computadores;
-
 Linguagens: Javascript/Typescript, HTML, CSS, C, C++, bash (shell script), PHP, R e Python;
 Banco de Dados: Postgres, MySQL e MongoDB.
 Frameworks/bibliotecas: NodeJS, ReactJS, Angular, React-Native e Docker (container);
 Padrões/metodologias: ITIL, SOLID, MVC e TDD;
 Versionamento: Git e SVN.
+</div> 
