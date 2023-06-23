@@ -1,9 +1,9 @@
- ##https://vinicius-prata-kloh-stats-a5b28h8jx-viniciuspratakloh.vercel.app/
+ ##
  
  <div>
   <a href="https://github.com/ViniciusPrataKloh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPrataKloh&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://vinicius-prata-kloh-readme.vercel.app/api/top-langs/?username=ViniciusPrataKloh&layout=compact&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPrataKloh&layout=compact&langs_count=16"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
