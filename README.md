@@ -31,14 +31,3 @@
   ![Snake animation](https://github.com/ViniciusPrataKloh/ViniciusPrataKloh/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/ViniciusPrataKloh/ViniciusPrataKloh/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    ![Snake animation](https://github.com/ViniciusPrataKloh/ViniciusPrataKloh/blob/output/github-contribution-grid-snake-dark.svg)
-  />
-</picture>
