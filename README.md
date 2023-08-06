@@ -39,6 +39,6 @@
   />
   <img
     alt="github contribution grid snake animation"
-    ![Snake animation](https://github.com/ViniciusPrataKloh/ViniciusPrataKloh/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/ViniciusPrataKloh/ViniciusPrataKloh/blob/output/github-contribution-grid-snake-dark.svg)
   />
 </picture>
