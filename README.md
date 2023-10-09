@@ -1,6 +1,6 @@
  ##
  
- <div align="center" justify="center">
+ <div align="center" style="display:flex align-items:center" >
    <span>Conheça o meu perfil no Linkedin:</span>
    <a href="https://linkedin.com/in/vinicius-prata-kloh-8bb6581a8">
     <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
@@ -30,7 +30,5 @@
   ##
   
 <div> 
- 
   ![Snake animation](https://github.com/ViniciusPrataKloh/ViniciusPrataKloh/blob/output/github-contribution-grid-snake-dark.svg)
-  
 </div>
