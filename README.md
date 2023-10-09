@@ -2,7 +2,7 @@
  
  <div align="center">
   <a href="https://github.com/ViniciusPrataKloh">
-   <a href="https://linkedin.com/in/vinicius-prata-kloh-8bb6581a8">
+  <a href="https://linkedin.com/in/vinicius-prata-kloh-8bb6581a8">Linkedin</a>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPrataKloh&show_icons=true&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPrataKloh&layout=compact&langs_count=16"/> -->
 <div>
